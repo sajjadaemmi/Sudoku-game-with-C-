@@ -1,0 +1,30 @@
+c:\users\sajjad\documents\visual studio 2013\Projects\Sudoku 2\Sudoku 2\bin\Debug\Sudoku 2.exe.config
+c:\users\sajjad\documents\visual studio 2013\Projects\Sudoku 2\Sudoku 2\bin\Debug\Sudoku 2.exe
+c:\users\sajjad\documents\visual studio 2013\Projects\Sudoku 2\Sudoku 2\bin\Debug\Sudoku 2.pdb
+c:\users\sajjad\documents\visual studio 2013\Projects\Sudoku 2\Sudoku 2\obj\Debug\Sudoku 2.csprojResolveAssemblyReference.cache
+c:\users\sajjad\documents\visual studio 2013\Projects\Sudoku 2\Sudoku 2\obj\Debug\Sudoku_2.Sudoku.resources
+c:\users\sajjad\documents\visual studio 2013\Projects\Sudoku 2\Sudoku 2\obj\Debug\Sudoku_2.Properties.Resources.resources
+c:\users\sajjad\documents\visual studio 2013\Projects\Sudoku 2\Sudoku 2\obj\Debug\Sudoku 2.csproj.GenerateResource.Cache
+c:\users\sajjad\documents\visual studio 2013\Projects\Sudoku 2\Sudoku 2\obj\Debug\Sudoku 2.exe
+c:\users\sajjad\documents\visual studio 2013\Projects\Sudoku 2\Sudoku 2\obj\Debug\Sudoku 2.pdb
+F:\Programming\C#\Project\Sudoku 2\Sudoku 2\bin\Debug\Sudoku 2.exe.config
+F:\Programming\C#\Project\Sudoku 2\Sudoku 2\obj\Debug\Sudoku 2.exe
+F:\Programming\C#\Project\Sudoku 2\Sudoku 2\obj\Debug\Sudoku 2.pdb
+F:\Programming\C#\Project\Sudoku 2\Sudoku 2\bin\Debug\Sudoku 2.exe
+F:\Programming\C#\Project\Sudoku 2\Sudoku 2\bin\Debug\Sudoku 2.pdb
+F:\Programming\C#\Project\Sudoku 2\Sudoku 2\obj\Debug\Sudoku 2.csprojResolveAssemblyReference.cache
+F:\Programming\C#\Project\Sudoku 2\Sudoku 2\obj\Debug\Sudoku_2.Sudoku.resources
+F:\Programming\C#\Project\Sudoku 2\Sudoku 2\obj\Debug\Sudoku_2.Properties.Resources.resources
+F:\Programming\C#\Project\Sudoku 2\Sudoku 2\obj\Debug\Sudoku 2.csproj.GenerateResource.Cache
+E:\Programming\C#\Project\Sudoku 2\Sudoku 2\bin\Debug\Sudoku 2.exe.config
+E:\Programming\C#\Project\Sudoku 2\Sudoku 2\obj\Debug\Sudoku 2.exe
+E:\Programming\C#\Project\Sudoku 2\Sudoku 2\obj\Debug\Sudoku 2.pdb
+E:\Computer science\C#\Projects\Sudoku 2\Sudoku 2\bin\Debug\Sudoku 2.exe.config
+E:\Computer science\C#\Projects\Sudoku 2\Sudoku 2\obj\Debug\Sudoku 2.exe
+E:\Computer science\C#\Projects\Sudoku 2\Sudoku 2\obj\Debug\Sudoku 2.pdb
+E:\Computer science\C#\Projects\Sudoku 2\Sudoku 2\bin\Debug\Sudoku 2.exe
+E:\Computer science\C#\Projects\Sudoku 2\Sudoku 2\bin\Debug\Sudoku 2.pdb
+E:\Computer science\C#\Projects\Sudoku 2\Sudoku 2\obj\Debug\Sudoku 2.csprojResolveAssemblyReference.cache
+E:\Computer science\C#\Projects\Sudoku 2\Sudoku 2\obj\Debug\Sudoku_2.Sudoku.resources
+E:\Computer science\C#\Projects\Sudoku 2\Sudoku 2\obj\Debug\Sudoku_2.Properties.Resources.resources
+E:\Computer science\C#\Projects\Sudoku 2\Sudoku 2\obj\Debug\Sudoku 2.csproj.GenerateResource.Cache
